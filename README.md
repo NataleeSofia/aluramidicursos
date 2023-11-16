@@ -1,1 +1,1 @@
-# aluramidicursos
+# aluramidi
